@@ -1,0 +1,24 @@
+﻿  Appetizer.cpp
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(23,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Beverage.cpp
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(23,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Item.cpp
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(23,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ItemList.cpp
+  Main.cpp
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(23,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MainCourse.cpp
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(23,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Menu.cpp
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(23,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Order.cpp
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(23,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Advanced Programming AMB19705060\Item.h(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Advanced Programming AMB19705060.vcxproj -> C:\Users\rishi\source\repos\Advanced Programming 1 AMB19705060\Debug\Advanced Programming AMB19705060.exe
